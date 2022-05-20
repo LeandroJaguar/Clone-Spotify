@@ -5,3 +5,5 @@ Irei excutando alterações para treinar os comando do git
 Novas alterações
 
 outras alterações
+
+outra 
