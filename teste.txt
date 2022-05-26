@@ -1,9 +1,0 @@
-Ola , este .txt é arquivo de teste para o GIT e github
-
-Irei excutando alterações para treinar os comando do git
-
-Novas alterações
-
-outras alterações
-
-outra 
